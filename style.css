@@ -586,7 +586,7 @@ form h3{
         display: block;
     }
     .container{
-        max-width: 95%;
+        max-width: 100%;
     }
 
     .hero{
